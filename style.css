@@ -55,6 +55,8 @@ li, .hero-text, .footer{
 	height: 300px;
 
 	flex: 1;
+	object-fit: cover;
+	border-radius: 10px;
 }
 
 .hero {
@@ -113,6 +115,15 @@ li, .hero-text, .footer{
 	box-sizing: border-box;
 	border: 4px solid #3882f6;
 	border-radius: 15px;
+	object-fit: cover;
+}
+
+#gracie {
+	object-position: 50% 30%;
+}
+
+#stella {
+	object-position: 50% 10%;
 }
 
 .quote-text {
