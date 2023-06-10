@@ -9,4 +9,13 @@ While the webpage I make should look like this I am allowed to have some creativ
 It also does not have to be an exact one-to-one replica.
 
 ## Reflection
-To be filled out once the project is finished.
+Ok. This project was a little frustrating, but (of course) I felt that I learned a lot by
+taking my time on it. I did not add too much personalization to the webpage. I only
+changed the default content to some pictures and text about my pets.
+
+The hardest part of the project had to be figuring out how to organize the flexboxes and
+get them to cooperate the way I would like. Although I would say that flexboxes were very
+convenient and simple when they worked without a fuss. Definetly going to use them on my 
+own personal projects in the future.
+
+Overall, the project was enjoyable and simple too.
